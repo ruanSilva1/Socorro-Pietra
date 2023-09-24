@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display: inline-flex;
+    width: 100%;
+}
+
+.cima{
+    width: 100%;
+    height: 100px;
+    background-color: #CCE2E2;
+}
+
+.baixo{
+    width: 100%;
+    height: 85dvb;
+    background-color: white;
+}
+
+.titulo-verde{
+    width: 4%;
+    height: 4dvb;
+    background-color: #44BABC;
+    display: inline-flex;
+    margin-left: 5%;
+}
+.verde{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12pt;
+    color: white;
+    transform: translate(0,12px);
+    margin-left: 35%;
+}
+
+.vd-escuro{
+    width: 10%;
+    height: 10dvb;
+    background-color: transparent;
+    transform: translate(0,12px);
+}
+
+.verde-escuro{
+    font-size: 12pt;
+    color: #35797D;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.novo-equip{
+    width: 50%;
+    font-size: 12pt;
+    background-color: transparent;
+    border: 0;
+    color: #35797D;
+    transform: translate(30px,30px);
+}
+    
+img.imgsaida{
+    width: 12%;
+    margin-left: 60%;
+    transform: translate(55px, 0);
+}
+
+.div-direita{
+    margin-left: 82%;
+    background-color:transparent;
+    width: 18%;
+    height: 70px;
+    transform: translate(0,15px);
+}
+.bt-sair{
+    width: 20%;
+    height: 35px;
+    background-color:transparent;
+    border: 0;
+}

@@ -1,0 +1,43 @@
+.main{
+    width: 100%;
+    display: inline-flex;
+}
+
+.total{
+    width: 100%;
+    height: 97dvb;
+    background-color: white;
+}
+
+.meio{
+    width: 50%;
+    height: 85dvb;
+    background-color: #EEEDED;
+    margin-left: 25%;
+    margin-top: 2.5%;
+}
+
+.fechar{
+    margin-left: 96.8%;
+    border: none;
+    background-color: transparent;
+    color: #35797D;
+}
+
+h1{
+    font-size: 12pt;
+    color: #35797D;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5%;
+}
+
+.comentario-add{
+    width: 20%;
+    height: 25px;
+    border-radius: 7px;
+    border: none;
+    background-color: #35797D;
+    color: white;
+    margin-left: 5%;
+    transform: translate(0,500px);
+}

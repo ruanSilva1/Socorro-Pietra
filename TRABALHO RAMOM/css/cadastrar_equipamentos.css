@@ -1,0 +1,101 @@
+.main{
+    width: 100%;
+    display: inline-flex;
+}
+
+.fundo{
+    background-color: transparent;
+    width: 100%;
+    height: 97dvb;
+}
+
+.div-cadastro{
+    width: 55%;
+    height: 70dvb;
+    background-color: whitesmoke;
+    margin-left: 23%;
+    margin-top: 6%;
+    
+}
+
+h1{
+    font-size: 12pt;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: translate(25px, 0);
+    color: #35797D;
+}
+hr{
+    width: 70%;
+    margin-right: 28.5%;
+    margin-top: 3%;
+}
+
+.bt{
+    margin-left: 97.1%;
+    border: 0;
+}
+
+.nome{
+    font-size: 12pt;
+    color: #35797D;
+    margin-left: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.endereco{
+    font-size: 12pt;
+    color: #35797D;
+    margin-left: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.descricao{
+    font-size: 12pt;
+    color: #35797D;
+    margin-left: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.inp-nome{
+    width: 55%;
+    height: 20px;
+    transform: translate(20px,22px);
+    border: none;
+    background-color: transparent;
+}
+.imp-endereco{
+    width: 50%;
+    transform: translate(20px,10px);
+}
+.inp-desc{
+    width: 60%;
+    margin-top: 5%;
+    margin-left: 2%;
+    height: 20px;
+    border: none;
+    transform: translate(0,22px);
+    background-color: transparent;
+}
+
+.check-bx{
+width: 3%;
+height: 20px;
+margin-left: 2%;
+transform: translate(0,4px);
+}
+
+.-labe{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 12pt;
+}
+
+button.cadastrar-bt{
+width: 12%;
+height: 25px;
+border-radius: 7px;
+border: none;
+background-color: #35797D;
+color: white;
+margin-top: 10%;
+margin-left: 4%;
+}

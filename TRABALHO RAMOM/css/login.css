@@ -64,7 +64,6 @@
 .bt-01{
     width: 15%;
     height: 80px;
-
     border-color:#44BABC;
     margin-left: 27%;
     border-radius: 100%;
@@ -82,6 +81,7 @@
     border-color: #44BABC;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
 }
 .bt-03{
     width: 15%;
@@ -90,6 +90,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-04{
@@ -100,6 +102,8 @@
     margin-left: 27%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-05{
@@ -109,6 +113,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 .bt-06{
     width: 15%;
@@ -117,6 +123,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-07{
@@ -127,6 +135,8 @@
     margin-top: 5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-08{
@@ -136,6 +146,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-09{
@@ -145,6 +157,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-c{
@@ -155,6 +169,8 @@
     margin-top: 5%;
     font-size: 20px;
     color:#44BABC;
+    border-style:double;
+    border-color: #44BABC;
 }
 
 .bt-00{
@@ -164,6 +180,8 @@
     margin-left: 1.5%;
     font-size: 20px;
     color:#44BABC;
+    border-color: #44BABC;
+    border-style:double;
 }
 .bt-bt{
     width: 15%;
@@ -172,4 +190,6 @@
     margin-left: 1.5%;
     font-size: 20px;
     transform: translate(0,5px);
+    border-color: #44BABC;
+    border-style:double;
 }
